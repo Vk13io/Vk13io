@@ -1,6 +1,8 @@
 # Hi there, I'm Vikas 👋 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="top" alt="GIF" height="170px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+
 ## I'm a Electronics Engineering Student and a passionate developer
 
 - 👨‍💻 I’m doing my B.Tech from TKM College of Engineering,Kollam.
