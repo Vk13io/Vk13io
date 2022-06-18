@@ -3,7 +3,7 @@
 <img align="top" alt="GIF" height="170px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 
-## I'm a Electronics Engineering Student and a passionate developer
+## I'm an Electronics Engineering Student and a passionate developer
 
 - 👨‍💻 I’m doing my B.Tech from TKM College of Engineering,Kollam.
 - 📚 I love React.
