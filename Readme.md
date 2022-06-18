@@ -21,7 +21,7 @@
 ### Connect with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][instagram]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1655562292~hmac=89a7c5128834ca26f54f1472f4d87a0e"/>][instagram]
 
 
 
@@ -41,7 +41,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
 
 
 
