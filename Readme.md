@@ -6,7 +6,7 @@
 ## I'm an Electronics Engineering Student and a passionate developer
 
 - 👨‍💻 I’m doing my B.Tech from TKM College of Engineering,Kollam.
-- 📚 I love React.
+- 📚 Currently I'm learning React.
 - 💡 Arduino my fav.
 - ⚡ Fun fact: I love atheletics,Kabadi.
 
