@@ -1,78 +1,74 @@
-# Hi there, I'm Vikas 👋 
+# Hi there, I'm Vikas 👋  
 
-<img align="top" alt="GIF" height="170px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="top" alt="GIF" height="170px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />  
 
+## I'm an Electronics and Telecommunication Engineer and a Passionate Developer  
 
-## I'm an Electronics Engineering Student and a passionate developer
-
-- 👨‍💻 I’m doing my B.Tech from TKM College of Engineering,Kollam.
-- 📚 Currently I'm learning React.
-- 💡 Arduino my fav.
-- ⚡ Fun fact: I love atheletics,Kabadi.
-
----
-
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vk13i0&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Connect with me 📝
-
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1655562292~hmac=89a7c5128834ca26f54f1472f4d87a0e"/>][instagram]
-
-
-
-<br />
+- 👨‍💻 Graduated from **TKM College of Engineering, Kollam**.  
+- 🛠️ Specializing in **UVM, SystemVerilog, SVA, and Embedded Systems**.  
+- 🌟 Enthusiastic about **innovating digital designs for real-world applications**.  
+- ⚡ Fun fact: I love athletics!  
 
 ---
 
-### Languages and Tools 🛠 
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vk13io&repo=Bgstatic&countColor=%237B1E7B"/>  
 
+### Connect with Me 📝  
 
+[<img align="left" alt="Vikas K | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/-vikask/)  
 
-</p>
-
-<br/>
-
+<br/>  
 
 ---
 
-<br/>
+### Featured Projects 🚀  
 
-
-
-
-  <h2 align="center"> Github Statistics 📈 </h2>
+- [**SPI Controller**](https://github.com/Vk13io/SPI-controller)  
+   Designed and implemented an SPI controller in Verilog for efficient serial communication.
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vk13io&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk13io&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+- [**Amazon Stock Price Predictor**](https://github.com/Vk13io/Stock-price-prediction)  
+   Built a machine learning model to predict Amazon stock prices with advanced regression techniques.  
 
-<br/>
-<br />
+- [**Single-Port RAM**](https://github.com/Vk13io/Single-port-Ram)  
+   Implemented a Verilog-based single-port RAM, optimizing memory access for embedded systems.  
 
 ---
 
+### Skills 🛠️  
 
+- **Languages & Programming**: Python, C, C++, Verilog, SystemVerilog  
+- **Hardware Description & Verification**: Digital Design, UVM (Universal Verification Methodology), SVA (SystemVerilog Assertions)  
+- **Tools & Platforms**: Xilinx ISE, Xilinx Vivado, Questasim, VC Spyglass, Google Colab, Git  
+- **Frameworks & Libraries**: NumPy, Pandas, Scikit-learn, Keras, TensorFlow  
+- **Specializations**: Embedded Systems, RTL Design, Test Automation, Data Analysis  
 
-[instagram]: https://www.instagram.com/____v__k_13/
-[linkedin]: https://www.linkedin.com/in/-vikask
-  
+---
+
+### Languages and Tools 🛠️  
+
+<p align="center">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/verilog/verilog.png" alt="Verilog" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/system-verilog/system-verilog.png" alt="SystemVerilog" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">  
+</p>  
+
+---
+
+<h2 align="center"> GitHub Statistics 📈 </h2>  
+
+<div align="center">  
+  <a href="">  
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vk13io&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />  
+  </a>  
+  <a href="">  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk13io&theme=react&line_height=40&hide=css"/>  
+  </a>  
+</div>  
+
+---
