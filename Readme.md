@@ -46,19 +46,19 @@
 
 ### Languages and Tools 🛠️  
 
-<p align="center">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
-<img src="https://your-image-host.com/verilog-icon.png" alt="Verilog" height="40" style="vertical-align:top; margin:4px">
-<img src="https://your-image-host.com/systemverilog-icon.png" alt="SystemVerilog" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+- **Verilog**: Expertise in hardware description language for FPGA and ASIC design.
+- **SystemVerilog**: Proficient in advanced HDL for verification and design, including UVM and SVA methodologies.
+- **Python**: Skilled in data analysis, machine learning, and scripting.
+- **C/C++**: Strong foundation in embedded systems and performance optimization.
+- **SQL**: Experience in database querying and management.
+- **Git**: Version control and collaboration for seamless project development.
+- **Digital Design**: Comprehensive understanding of logic design, FSMs, and circuit modeling.
+- **Tableau**: Visualization and analysis of complex datasets for insights.
+- **Visual Studio Code**: Versatile IDE for efficient development across various languages.
+- **Embedded Systems**: Hands-on experience with microcontrollers and hardware-software interfacing.
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">  
-</p>  
+
 
 ---
 
