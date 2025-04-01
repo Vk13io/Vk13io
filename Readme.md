@@ -11,7 +11,8 @@
 
 ---
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vk13io.Bgstatic)](https://github.com/Vk13io)
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Vk13io.Bgstatic&color=7b1e7b&style=for-the-badge">
+
 ### Connect with Me 📝  
 
 [<img align="left" alt="Vikas K | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/-vikask/)  
