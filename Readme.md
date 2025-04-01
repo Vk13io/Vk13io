@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Vk13io.Bgstatic&color=7b1e7b&style=for-the-badge">
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vk13io&repo=Bgstatic&countColor=%237B1E7B"/>  
 
 ### Connect with Me 📝  
 
