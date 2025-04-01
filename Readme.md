@@ -11,8 +11,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vk13io&repo=Bgstatic&countColor=%237B1E7B"/>  
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vk13io.Bgstatic)](https://github.com/Vk13io)
 ### Connect with Me 📝  
 
 [<img align="left" alt="Vikas K | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/-vikask/)  
