@@ -23,14 +23,15 @@
 
 ### Featured Projects 🚀  
 
-- [**SPI Controller**](https://github.com/Vk13io/SPI-controller)  
-   Designed and implemented an SPI controller in Verilog for efficient serial communication.
-  
-- [**Amazon Stock Price Predictor**](https://github.com/Vk13io/Stock-price-prediction)  
-   Built a machine learning model to predict Amazon stock prices with advanced regression techniques.  
+- [**Verification of UART Protocol**](https://github.com/Vk13io/Verification_of_UART_Protocol)  
+   Verified the UART communication protocol using SystemVerilog, ensuring reliable and accurate serial data transmission.
 
-- [**Single-Port RAM**](https://github.com/Vk13io/Single-port-Ram)  
-   Implemented a Verilog-based single-port RAM, optimizing memory access for embedded systems.  
+- [**Router 1x3 UVM Verification**](https://github.com/Vk13io/Verification-of-Router-1X3-using-UVM-)  
+   Built a complete UVM environment to functionally verify a 1x3 packet router module, including driver, monitor, scoreboard, and coverage analysis.
+
+- [**Verification of Sequential Circuit**](https://github.com/Vk13io/Verifiication-of-Sequential-Circuit)  
+   Developed SystemVerilog testbenches to verify the behavior and timing of a sequential digital circuit, including state transitions and output logic.
+ 
 
 ---
 
