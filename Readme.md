@@ -63,15 +63,12 @@
 
 ---
 
-<h2 align="center"> GitHub Statistics 📈 </h2>  
+<h2 align="center">📈 GitHub Statistics</h2>
 
-<div align="center">  
-  <a href="">  
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vk13io&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40&random=123" />  
-  </a>  
-  <a href="">  
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk13io&theme=radical&line_height=40&hide=css&random=123" />  
-  </a>  
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vk13io&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40" width="420" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk13io&layout=compact&theme=radical&hide=css&langs_count=6" width="420" />
 </div>
 
 
