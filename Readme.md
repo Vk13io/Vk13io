@@ -67,8 +67,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vk13io&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40" width="420" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk13io&layout=compact&theme=radical&hide=css&langs_count=6" width="420" />
 </div>
-
-
